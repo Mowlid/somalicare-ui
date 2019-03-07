@@ -1,0 +1,42 @@
+.gridtile{
+    margin-top: 10px;
+    width:50%;
+    background-color: rgba(255, 255, 255, 1);
+    border:1px solid #f2f2f2;
+    border-radius: 0;
+    height: 247px;
+    padding: 2px;
+  }
+.tilebar{
+      color: #000;
+      font-size:50px;
+      text-transform: uppercase;
+      text-align:center;
+      border-radius: 0;
+}
+.tilebar:hover{
+    cursor:pointer;
+    background-color:#14b43e
+    }
+.imgUser{
+    background-color: #ffffff;
+    width: 32%;
+    height: 148px;
+    border-radius: 116px;
+    margin-left: 34%;
+    margin-top: 2%;
+  }
+.imgUser:hover{
+        cursor:pointer;
+    }
+.userInfo{
+    margin-top: -24px;
+    padding: 5px;
+    padding-top: 30px;
+    background-color: #f6f6f6;
+    text-align: center;
+}
+h3,h4,h5,h6{
+    font-family: Sans-serif;
+    margin: 7px;
+}

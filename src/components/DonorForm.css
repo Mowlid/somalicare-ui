@@ -1,0 +1,26 @@
+.container{
+    display: 'flex';
+    flex-wrap: 'wrap';
+  }
+  .divForm{
+      margin:40px;
+      padding:10px;
+      background:'#fff';
+  }
+  .textField{
+    margin-left: 10px;
+    margin-right:10px;
+    width: 400px;
+  }
+  .dense{
+    margin-top: 19px;
+  }
+  .menu{
+    width: 200px;
+  }
+  .button{
+      margin: 10px;
+    }
+.input {
+      display: none;
+    }

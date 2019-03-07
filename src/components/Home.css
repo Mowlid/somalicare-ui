@@ -1,0 +1,15 @@
+body{
+    background-color: #000;
+}
+.wrapper{
+    width:960px;
+    margin:0 auto;
+}
+.content{
+    margin:0;
+    background-color: #ffffff;
+}
+.footer{
+    background-color: '#ddd';
+    color:'#000';
+}
